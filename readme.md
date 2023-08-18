@@ -49,7 +49,7 @@ A: *[Davebot Forex on Github](https://github.com/OlzyInnovation/DaveBot_Forex)*
 
 Q: **What was your role in the project**
 
-A: *I was the lead developer on this project*
+A: *I was the lead developer on this project, a total of 4 developers*
 
 Q: **Please describe some of the key activities of the project to enable us understand its complexities and your tasks in the project**
 
@@ -59,6 +59,51 @@ A: *[**Davebot_Forex**] is a subsidiary of the BotFather trading application (a 
 
 *Traders can watch markets changes, scalp and have an option to have their data on a webpage or written to a spreadsheet*
 
-Q: ****
+### Project 2
+
+Q: **Name of project / product**
+
+A: *Ultimate GPT*
+
+Q: **Short Description of project  / product**
+
+A: *ChatGPT extension for additional functionalities*
+
+Q: **Strategy used in implementing the project  / product**
 
 A: **
+
+Q: **Tools used for project**
+
+A:
+
+    * Javascript
+    * Node.js
+    * Bash
+    * Express
+    * OpenSSL
+    * MongoDB
+    * Webpack
+    * NPM
+    * github
+    * ...and more
+
+Q: **Link to the screenshot of the project**
+
+A: *[Ultimate GPT](https://github.com/OlzyInnovation/Ultimate-GPT)*
+
+Q: **What was your role in the project**
+
+A: *I was the lead developer on this project and led a team of 5 developers*
+
+Q: **Please describe some of the key activities of the project to enable us understand its complexities and your tasks in the project**
+
+A: *[**Ultimate GPT**] is an extension for ChatGPT, it allows for added functionalities such as:*
+    
+    * User created prompts
+    * User saved prompts
+    * Sharing and Recording ChatGPT sessions
+    * ...and more
+
+*Ultimate GPT bridges the divide between users who cannot afford a paid subscription plan and beyond...*
+
