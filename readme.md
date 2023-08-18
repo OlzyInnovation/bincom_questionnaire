@@ -121,3 +121,17 @@ Describe one of your most challenging projects so far. Why was it challenging an
 How do you approach task assignment within your team? | After splitting tasks based on roles, team dynamics, time and more. I assign tasks on every meeting and check-in regularly to ensure they are progressing accordingly before the next meeting.
 Describe a time when you realised your current approach wasn’t working and how did you resolve it ? | I was brought on as a team lead halfway into a project and I sparringly assigned tasks based on job titles and roles. I soon realised the team members were not as productive as had been mentioned. <br/> Not to upset team dynamics and to get the project out in time, I re-distributed tasks based on the team members tech stack
 Describe your experience in working with Agile Methodology? | I much enjoy applying Agile methodology in my development both personally and professionally. I believe it to be very productive when used effectively but can also be a drag if not implemented well
+
+## Section 3: Skills
+
+Q: **Please share with us links to some of your work that is in public domain.  Github, Stackoverflow, Hackerrank and similar are acceptable.**
+
+A: 
+
+*[Ultimate GPT](https://github.com/OlzyInnovation/Ultimate-GPT)*
+
+*[Olzy Innovation](https://olzyinnovation.com)*
+
+*[Medical website demo](https://statuesque-faloodeh-c7828a.netlify.app)*
+
+*[Escrow exhange website demo](https://rainbow-bienenstitch-f85634.netlify.app/)*
