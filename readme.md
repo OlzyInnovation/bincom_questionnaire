@@ -130,8 +130,13 @@ A:
 
 *[Ultimate GPT](https://github.com/OlzyInnovation/Ultimate-GPT)*
 
+![Ultimate GPT](ultimategpt.png)
+
 *[Olzy Innovation](https://olzyinnovation.com)*
+![Ultimate GPT](olzyinnovation.png)
 
 *[Medical website demo](https://statuesque-faloodeh-c7828a.netlify.app)*
+![Ultimate GPT](medical.png)
 
 *[Escrow exhange website demo](https://rainbow-bienenstitch-f85634.netlify.app/)*
+![Ultimate GPT](escrow.png)
